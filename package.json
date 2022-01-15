@@ -6,7 +6,7 @@
 	"type": "module",
 	"scripts": {
 		"build": "babel index.js -d dist",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"start": "node ./index.js"
 	},
 	"author": "f1nesse13",
 	"license": "ISC",
