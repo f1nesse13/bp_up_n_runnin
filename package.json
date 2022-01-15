@@ -18,8 +18,7 @@
 		"clean-webpack-plugin": "^4.0.0",
 		"commander": "^8.3.0",
 		"fs-extra": "^10.0.0",
-		"random-questions": "^1.0.1",
-		"prompt-sync": "^4.2.0",
-		"prompts": "^2.4.2"
+		"prompts": "^2.4.2",
+		"random-questions": "^1.0.1"
 	}
 }
